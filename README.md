@@ -1,7 +1,7 @@
 # Expense Tracker 💰
 
 <p align="center">
-  <img src="![expense_tracker_presentation](https://github.com/user-attachments/assets/5582c6e3-9c57-4559-af0e-74dbeb683aa9)" alt="Expense Tracker Demo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/5582c6e3-9c57-4559-af0e-74dbeb683aa9" alt="Expense Tracker Demo" width="320"/>
 </p>
 
 <p align="center">
